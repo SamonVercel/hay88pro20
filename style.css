@@ -67,8 +67,6 @@ html {
   position: fixed;
   top: 0px;
   background: #191b23;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 input:focus {
